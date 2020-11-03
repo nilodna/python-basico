@@ -1,0 +1,1 @@
+Este diretório contém os notebook com o conteúdo das aulas ministradas, porém com mais informações e direcionamento à algumas informações. Deve ser utilizado como acompanhamento para estudos e aprofundamento dos assuntos tratados em aula.
