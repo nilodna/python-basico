@@ -18,3 +18,5 @@ Ou abrir, aula a aula, utilizando o Google Colab:
 * **Aula 5** - Pandas ... seu lindo! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilodna/python-basico/blob/feature_iojr-shortcourse/material_acompanhamento/lecture05.ipynb)
 
 * **Aula 6** - Pandas ... seu lindo! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilodna/python-basico/blob/feature_iojr-shortcourse/material_acompanhamento/lecture06.ipynb)
+
+* **Aula 7** - Pandas ... seu lindo! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilodna/python-basico/blob/feature_iojr-shortcourse/material_acompanhamento/lecture07.ipynb)
