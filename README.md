@@ -20,3 +20,5 @@ Ou abrir, aula a aula, utilizando o Google Colab:
 * **Aula 6** - Cartopy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilodna/python-basico/blob/feature_iojr-shortcourse/material_acompanhamento/lecture06.ipynb)
 
 * **Aula 7** - Campos multidimensionais [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilodna/python-basico/blob/feature_iojr-shortcourse/material_acompanhamento/lecture07.ipynb)
+
+* **Aula 8** - Visualizando campos 2D e aplicações python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilodna/python-basico/blob/feature_iojr-shortcourse/material_aula/lecture08.ipynb)
