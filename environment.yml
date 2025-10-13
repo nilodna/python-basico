@@ -1,0 +1,12 @@
+name: binder-environment
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - numpy
+  - seaborn
+  - cartopy
+  - geopandas
+  - xarray
+  - rise
